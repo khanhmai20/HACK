@@ -13,7 +13,7 @@
 
 ### Approach
 * Implementing using hardware description language (HDL aka verilog)
-* HardwareSimulator.sh
+* Bit->Register->RAM->PC
 * Output 
 
 ![alt text](https://github.com/khanhmai20/HACK/blob/main/Memory/Asset/Output.png)
