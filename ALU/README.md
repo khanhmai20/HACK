@@ -1,7 +1,7 @@
 # ALU Implementation
 
 ### Objective
-1. Practice using the [logic gate](https://github.com/khanhmai20/LogicGate) implemented prior
+1. Practice using the [logic gate](https://github.com/khanhmai20/HACK/tree/main/LogicGate) implemented prior
 2. Building more complext chipset 
 3. Implementing Arithmetic Logical Unit for the Hack computer
 
