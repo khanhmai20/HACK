@@ -6,7 +6,7 @@
 3. Implementing Arithmetic Logical Unit for the Hack computer
 
 ### Chipset Layout 
-![alt text](https://github.com/khanhmai20/ALU/blob/main/Asset/Chipset.png)
+![alt text](https://github.com/khanhmai20/HACK/blob/main/ALU/Asset/Chipset.png)
 
 ### Approach 
 * Implement using HDL languages (Verilog)
@@ -14,7 +14,7 @@
 * Building main component ALU with all chipset prior
 * Output snapshot
 
-![alt text](https://github.com/khanhmai20/ALU/blob/main/Asset/ALU.png)
+![alt text](https://github.com/khanhmai20/HACK/blob/main/ALU/Asset/ALU.png)
 
 ### References
 * [Certified project by Coursera (NandToTetris)](https://www.nand2tetris.org/project02)
