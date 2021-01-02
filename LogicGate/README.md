@@ -22,5 +22,7 @@
 ### Navigation
 The file **01** contains the implementation for all of the gates. **Asset** file is just served for illustrative purpose. These gates have been implemented and tested correctly with the HardWaresimulator.
 
+### Implementation tip
+
 ### References
 * [Certified project by Coursera (NandToTetris)](https://www.nand2tetris.org/project01)
