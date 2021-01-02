@@ -9,7 +9,7 @@
 
 
 ### Layout of the gate 
-![alt text](https://github.com/khanhmai20/LogicGate/blob/main/Asset/Gate.png)
+![alt text](https://github.com/khanhmai20/HACK/blob/main/LogicGate/Asset/Gate.png)
 
 ### Approach 
 * Implement using HDL languages (Verilog)
@@ -17,7 +17,7 @@
 * Debug and Finish
 * Output
 
-![alt text](https://github.com/khanhmai20/LogicGate/blob/main/Asset/HardwareSimulator.png)
+![alt text](https://github.com/khanhmai20/HACK/blob/main/LogicGate/Asset/HardwareSimulator.png)
 
 ### Navigation
 The file **01** contains the implementation for all of the gates. **Asset** file is just served for illustrative purpose. These gates have been implemented and tested correctly with the HardWaresimulator.
