@@ -6,7 +6,7 @@
 * 16-Bit Register
 * Random Access Memory
 2. Building sequential logic 
-3. Using [logic gate](https://github.com/khanhmai20/HACK/tree/main/LogicGate) 
+3. Using [logic gate](https://github.com/khanhmai20/HACK/tree/main/LogicGate) and [incrementor](https://github.com/khanhmai20/HACK/tree/main/ALU)
 
 ### Memory Layout
 ![alt text](https://github.com/khanhmai20/HACK/blob/main/Memory/Asset/Chipset.png)
