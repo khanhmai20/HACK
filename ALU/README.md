@@ -6,7 +6,13 @@
 3. Implementing Arithmetic Logical Unit for the Hack computer
 
 ### Chipset Layout 
-![alt text](https://github.com/khanhmai20/HACK/blob/main/ALU/Asset/Chipset.png)
+|Chip name|Description|Test files|
+|--|--|--|
+|HalfAdder| Half Adder| HalfAdder.tst, HalfAdder.cmp|
+|FullAdder| Full Adder| FullAdder.tst, FullAdder.cmp|
+|Add16| Add 2-16bit-inputs| Add16.tst, Add16.cmp|
+|Inc16| Increment 16-bit input| Inc16.tst, Inc16.cmp|
+|ALU| Arithmetic Logic Unit| ALU.tst, ALU.cmp|
 
 ### Approach 
 * Implement using HDL languages (Verilog)
