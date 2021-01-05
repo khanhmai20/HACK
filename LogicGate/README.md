@@ -24,7 +24,7 @@
 |Or8Way|Or(in1,..,in7)|Or8Way.tst, Or8Way.cmp|
 |Mux4Way16|16-bit/4Way Mux|Mux4Way16.tst, Mux4Way16.cmp|
 |Mux8Way16|16-bit/8Way Mux|Mux8Way16.tst, Mux8Way16.cmp|
-|DMux4Way|4Way Demultiplexer|DMux4Way.tst, Mux4Way.cmp|
+|DMux4Way|4Way Demultiplexer|DMux4Way.tst, DMux4Way.cmp|
 |DMux8Way|8 Way Demultiplexer|DMux8Way.tst, DMux8Way.cmp|
 
 
