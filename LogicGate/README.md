@@ -34,7 +34,7 @@
 * Debug and Finish
 * Output
 
-![alt text](https://github.com/khanhmai20/HACK/blob/main/LogicGate/Asset/HardwareSimulator.png)
+![alt text](https://github.com/khanhmai20/HACK/blob/main/LogicGate/Asset/HardwareSimulator.png = 250x250)
 
 ### Navigation
 The file **01** contains the implementation for all of the gates. **Asset** file is just served for illustrative purpose. These gates have been implemented and tested correctly with the HardWaresimulator.
