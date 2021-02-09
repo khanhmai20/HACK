@@ -18,7 +18,7 @@
 ### Approach
 * Memory -> CPU -> Computer
 * Output 
-<img src="https://github.com/khanhmai20/HACK/blob/main/Architecture/Asset/computer.png" alt = "alt text" width=75%>
+<img src="https://github.com/khanhmai20/HACK/blob/main/Architecture/Asset/computer.png" alt = "alt text" width=100%>
 
 ### References
 * [Certified project by Coursera (NandToTetris)](https://www.nand2tetris.org/project05)
